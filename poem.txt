@@ -7,4 +7,5 @@ blue,
 indigo, 
 pink
 violet.
+additional colour here
 these are the colours of a rainbow.
